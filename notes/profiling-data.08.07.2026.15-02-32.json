@@ -1,0 +1,3581 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": null,
+          "duration": 0.3,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 962.5999999940395,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1000.0999999940395,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.5
+            ],
+            [
+              35,
+              0.5
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0.1
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0.1
+            ],
+            [
+              47,
+              0.1
+            ],
+            [
+              46,
+              0.3
+            ],
+            [
+              30,
+              1.5
+            ],
+            [
+              29,
+              1.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.1
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.1
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0.1
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.2
+            ],
+            [
+              29,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1002.7000000029802,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Normal",
+          "timestamp": 1556.5999999940395,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1608.7999999970198,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.4
+            ],
+            [
+              35,
+              0.4
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0.1
+            ],
+            [
+              47,
+              0.1
+            ],
+            [
+              46,
+              0.3
+            ],
+            [
+              30,
+              1.3
+            ],
+            [
+              29,
+              1.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0
+            ],
+            [
+              36,
+              0.1
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0.1
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.1
+            ],
+            [
+              29,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1611.3999999910593,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 1776.5,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.3,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1818.2999999970198,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0.1
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.5
+            ],
+            [
+              35,
+              0.5
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0.1
+            ],
+            [
+              42,
+              0.3
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              1.4
+            ],
+            [
+              29,
+              1.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.2
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.1
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.1
+            ],
+            [
+              29,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1820.7999999970198,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 1985.3999999910593,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.3,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 1998.0999999940395,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 2.2,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0.1
+            ],
+            [
+              31,
+              0.4
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.6
+            ],
+            [
+              36,
+              0.7
+            ],
+            [
+              35,
+              0.7
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.3
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              1.8
+            ],
+            [
+              29,
+              2.2
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0.1
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.1
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.3
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.2
+            ],
+            [
+              29,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 2000.8999999910593,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.6,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.6
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 2143.0999999940395,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.3,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 2209.2999999970198,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0.1
+            ],
+            [
+              31,
+              0.3
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.4
+            ],
+            [
+              35,
+              0.4
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0.1
+            ],
+            [
+              42,
+              0.3
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              1.4
+            ],
+            [
+              29,
+              1.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.2
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.1
+            ],
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.2
+            ],
+            [
+              29,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 2211.7999999970198,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 3473.0999999940395,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.3,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 3527.3999999910593,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.5,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0.1
+            ],
+            [
+              31,
+              0.2
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.4
+            ],
+            [
+              36,
+              0.4
+            ],
+            [
+              35,
+              0.4
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.1
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0.1
+            ],
+            [
+              47,
+              0.1
+            ],
+            [
+              46,
+              0.3
+            ],
+            [
+              30,
+              1.1
+            ],
+            [
+              29,
+              1.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.1
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.1
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0.1
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0
+            ],
+            [
+              29,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Immediate",
+          "timestamp": 3529.2000000029802,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.5,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 8398.20000000298,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.2,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.2
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.1
+            ],
+            [
+              36,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 8478.09999999404,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.6,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0.1
+            ],
+            [
+              31,
+              0.2
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.4
+            ],
+            [
+              35,
+              0.4
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0.1
+            ],
+            [
+              42,
+              0.3
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              1.3
+            ],
+            [
+              29,
+              1.6
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0.1
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.1
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.1
+            ],
+            [
+              37,
+              0
+            ],
+            [
+              36,
+              0.2
+            ],
+            [
+              35,
+              0
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.2
+            ],
+            [
+              29,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Immediate",
+          "timestamp": 8480.5,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.5,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.3
+            ],
+            [
+              36,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 8865.5,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 0.3,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 8965.70000000298,
+          "updaters": [
+            {
+              "displayName": "TouchableOpacity",
+              "id": 36,
+              "key": null,
+              "env": null,
+              "stack": null,
+              "type": 6,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": null,
+          "duration": 1.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.1
+            ],
+            [
+              41,
+              0.1
+            ],
+            [
+              40,
+              0.1
+            ],
+            [
+              39,
+              0.1
+            ],
+            [
+              38,
+              0.3
+            ],
+            [
+              37,
+              0.5
+            ],
+            [
+              36,
+              0.5
+            ],
+            [
+              35,
+              0.6
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0.1
+            ],
+            [
+              42,
+              0.2
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              1.3
+            ],
+            [
+              29,
+              1.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              34,
+              0
+            ],
+            [
+              33,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              31,
+              0.1
+            ],
+            [
+              41,
+              0
+            ],
+            [
+              40,
+              0
+            ],
+            [
+              39,
+              0
+            ],
+            [
+              38,
+              0.2
+            ],
+            [
+              37,
+              0.2
+            ],
+            [
+              36,
+              0
+            ],
+            [
+              35,
+              0.1
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              44,
+              0.1
+            ],
+            [
+              43,
+              0
+            ],
+            [
+              42,
+              0.1
+            ],
+            [
+              49,
+              0
+            ],
+            [
+              48,
+              0
+            ],
+            [
+              47,
+              0
+            ],
+            [
+              46,
+              0.2
+            ],
+            [
+              30,
+              0.2
+            ],
+            [
+              29,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Immediate",
+          "timestamp": 8968.09999999404,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 29,
+              "key": null,
+              "env": null,
+              "stack": [
+                [
+                  "WithDevTools",
+                  "http://localhost:8081/index.ts.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+                  26277,
+                  45,
+                  26275,
+                  5,
+                  false
+                ]
+              ],
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "AppContainer",
+      "initialTreeBaseDurations": [
+        [
+          26,
+          3.300000011920929
+        ],
+        [
+          27,
+          1.6000000089406967
+        ],
+        [
+          28,
+          1.300000011920929
+        ],
+        [
+          29,
+          0.4000000059604645
+        ],
+        [
+          30,
+          0.30000001192092896
+        ],
+        [
+          31,
+          0.10000000894069672
+        ],
+        [
+          32,
+          0
+        ],
+        [
+          33,
+          0
+        ],
+        [
+          34,
+          0
+        ],
+        [
+          35,
+          0.09999999403953552
+        ],
+        [
+          36,
+          0.09999999403953552
+        ],
+        [
+          37,
+          0
+        ],
+        [
+          38,
+          0
+        ],
+        [
+          39,
+          0
+        ],
+        [
+          40,
+          0
+        ],
+        [
+          41,
+          0
+        ],
+        [
+          42,
+          0
+        ],
+        [
+          43,
+          0
+        ],
+        [
+          44,
+          0
+        ],
+        [
+          45,
+          0
+        ],
+        [
+          46,
+          0.10000000894069672
+        ],
+        [
+          47,
+          0
+        ],
+        [
+          48,
+          0
+        ],
+        [
+          49,
+          0
+        ],
+        [
+          50,
+          0.10000000894069672
+        ]
+      ],
+      "operations": [
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          199,
+          4,
+          36,
+          299,
+          4,
+          35,
+          299,
+          4,
+          30,
+          500,
+          4,
+          29,
+          600,
+          4,
+          28,
+          1500,
+          4,
+          27,
+          1800,
+          4,
+          26,
+          3500
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          99,
+          4,
+          36,
+          399,
+          4,
+          35,
+          399,
+          4,
+          30,
+          600,
+          4,
+          29,
+          700,
+          4,
+          28,
+          1600,
+          4,
+          27,
+          1900,
+          4,
+          26,
+          3600
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          31,
+          299,
+          4,
+          38,
+          299,
+          4,
+          37,
+          400,
+          4,
+          36,
+          500,
+          4,
+          35,
+          500,
+          4,
+          44,
+          100,
+          4,
+          43,
+          100,
+          4,
+          42,
+          200,
+          4,
+          48,
+          100,
+          4,
+          47,
+          100,
+          4,
+          46,
+          299,
+          4,
+          30,
+          1500,
+          4,
+          29,
+          1799,
+          4,
+          28,
+          2700,
+          4,
+          27,
+          3000,
+          4,
+          26,
+          4700
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          700,
+          4,
+          36,
+          1099,
+          4,
+          35,
+          1099,
+          4,
+          30,
+          2099,
+          4,
+          29,
+          2399,
+          4,
+          28,
+          3299,
+          4,
+          27,
+          3599,
+          4,
+          26,
+          5299
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          500,
+          4,
+          36,
+          699,
+          4,
+          35,
+          699,
+          4,
+          30,
+          1699,
+          4,
+          29,
+          1999,
+          4,
+          28,
+          2899,
+          4,
+          27,
+          3199,
+          4,
+          26,
+          4899
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          40,
+          99,
+          4,
+          39,
+          99,
+          4,
+          37,
+          299,
+          4,
+          36,
+          399,
+          4,
+          35,
+          399,
+          4,
+          44,
+          0,
+          4,
+          43,
+          0,
+          4,
+          46,
+          300,
+          4,
+          30,
+          1299,
+          4,
+          29,
+          1700,
+          4,
+          28,
+          2600,
+          4,
+          27,
+          2900,
+          4,
+          26,
+          4600
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          600,
+          4,
+          36,
+          1000,
+          4,
+          35,
+          1000,
+          4,
+          30,
+          1900,
+          4,
+          29,
+          2300,
+          4,
+          28,
+          3200,
+          4,
+          27,
+          3500,
+          4,
+          26,
+          5200
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          500,
+          4,
+          36,
+          599,
+          4,
+          35,
+          599,
+          4,
+          30,
+          1500,
+          4,
+          29,
+          1900,
+          4,
+          28,
+          2800,
+          4,
+          27,
+          3100,
+          4,
+          26,
+          4800
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          33,
+          99,
+          4,
+          32,
+          99,
+          4,
+          37,
+          399,
+          4,
+          36,
+          500,
+          4,
+          35,
+          500,
+          4,
+          44,
+          99,
+          4,
+          43,
+          99,
+          4,
+          42,
+          299,
+          4,
+          48,
+          0,
+          4,
+          47,
+          0,
+          4,
+          46,
+          200,
+          4,
+          30,
+          1399,
+          4,
+          29,
+          1799,
+          4,
+          28,
+          2700,
+          4,
+          27,
+          3000,
+          4,
+          26,
+          4700
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          700,
+          4,
+          36,
+          1000,
+          4,
+          35,
+          1000,
+          4,
+          30,
+          1899,
+          4,
+          29,
+          2299,
+          4,
+          28,
+          3200,
+          4,
+          27,
+          3500,
+          4,
+          26,
+          5200
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          499,
+          4,
+          36,
+          599,
+          4,
+          35,
+          599,
+          4,
+          30,
+          1499,
+          4,
+          29,
+          1899,
+          4,
+          28,
+          2799,
+          4,
+          27,
+          3099,
+          4,
+          26,
+          4799
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          33,
+          0,
+          4,
+          32,
+          100,
+          4,
+          31,
+          400,
+          4,
+          40,
+          100,
+          4,
+          39,
+          100,
+          4,
+          38,
+          300,
+          4,
+          37,
+          600,
+          4,
+          36,
+          700,
+          4,
+          35,
+          700,
+          4,
+          44,
+          0,
+          4,
+          43,
+          0,
+          4,
+          30,
+          1800,
+          4,
+          29,
+          2200,
+          4,
+          28,
+          3100,
+          4,
+          27,
+          3400,
+          4,
+          26,
+          5100
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          36,
+          900,
+          4,
+          35,
+          900,
+          4,
+          30,
+          2000,
+          4,
+          29,
+          2400,
+          4,
+          28,
+          3300,
+          4,
+          27,
+          3600,
+          4,
+          26,
+          5300
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          500,
+          4,
+          36,
+          600,
+          4,
+          35,
+          600,
+          4,
+          30,
+          1700,
+          4,
+          29,
+          2100,
+          4,
+          28,
+          3000,
+          4,
+          27,
+          3300,
+          4,
+          26,
+          5000
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          33,
+          100,
+          4,
+          31,
+          300,
+          4,
+          38,
+          200,
+          4,
+          37,
+          400,
+          4,
+          36,
+          400,
+          4,
+          35,
+          400,
+          4,
+          44,
+          100,
+          4,
+          43,
+          100,
+          4,
+          30,
+          1400,
+          4,
+          29,
+          1700,
+          4,
+          28,
+          2600,
+          4,
+          27,
+          2900,
+          4,
+          26,
+          4600
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          36,
+          600,
+          4,
+          35,
+          600,
+          4,
+          30,
+          1600,
+          4,
+          29,
+          1900,
+          4,
+          28,
+          2800,
+          4,
+          27,
+          3100,
+          4,
+          26,
+          4800
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          300,
+          4,
+          36,
+          500,
+          4,
+          35,
+          500,
+          4,
+          30,
+          1500,
+          4,
+          29,
+          1800,
+          4,
+          28,
+          2700,
+          4,
+          27,
+          3000,
+          4,
+          26,
+          4700
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          33,
+          99,
+          4,
+          32,
+          99,
+          4,
+          31,
+          199,
+          4,
+          40,
+          99,
+          4,
+          39,
+          99,
+          4,
+          38,
+          299,
+          4,
+          37,
+          400,
+          4,
+          36,
+          400,
+          4,
+          35,
+          400,
+          4,
+          44,
+          0,
+          4,
+          43,
+          0,
+          4,
+          42,
+          99,
+          4,
+          48,
+          100,
+          4,
+          47,
+          100,
+          4,
+          46,
+          300,
+          4,
+          30,
+          1100,
+          4,
+          29,
+          1500,
+          4,
+          28,
+          2400,
+          4,
+          27,
+          2700,
+          4,
+          26,
+          4400
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          499,
+          4,
+          36,
+          799,
+          4,
+          35,
+          799,
+          4,
+          30,
+          1500,
+          4,
+          29,
+          1899,
+          4,
+          28,
+          2799,
+          4,
+          27,
+          3099,
+          4,
+          26,
+          4799
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          399,
+          4,
+          36,
+          499,
+          4,
+          35,
+          499,
+          4,
+          30,
+          1199,
+          4,
+          29,
+          1599,
+          4,
+          28,
+          2499,
+          4,
+          27,
+          2799,
+          4,
+          26,
+          4499
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          38,
+          200,
+          4,
+          37,
+          200,
+          4,
+          36,
+          400,
+          4,
+          35,
+          400,
+          4,
+          44,
+          99,
+          4,
+          43,
+          99,
+          4,
+          42,
+          299,
+          4,
+          48,
+          0,
+          4,
+          47,
+          0,
+          4,
+          46,
+          200,
+          4,
+          30,
+          1299,
+          4,
+          29,
+          1599,
+          4,
+          28,
+          2500,
+          4,
+          27,
+          2799,
+          4,
+          26,
+          4500
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          500,
+          4,
+          36,
+          700,
+          4,
+          35,
+          700,
+          4,
+          30,
+          1599,
+          4,
+          29,
+          1899,
+          4,
+          28,
+          2799,
+          4,
+          27,
+          3099,
+          4,
+          26,
+          4799
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          37,
+          400,
+          4,
+          36,
+          500,
+          4,
+          35,
+          500,
+          4,
+          30,
+          1399,
+          4,
+          29,
+          1699,
+          4,
+          28,
+          2599,
+          4,
+          27,
+          2899,
+          4,
+          26,
+          4599
+        ],
+        [
+          1,
+          26,
+          0,
+          4,
+          33,
+          0,
+          4,
+          32,
+          0,
+          4,
+          31,
+          100,
+          4,
+          40,
+          0,
+          4,
+          39,
+          0,
+          4,
+          36,
+          400,
+          4,
+          42,
+          200,
+          4,
+          30,
+          1200,
+          4,
+          29,
+          1600,
+          4,
+          28,
+          2500,
+          4,
+          27,
+          2800,
+          4,
+          26,
+          4500
+        ]
+      ],
+      "rootID": 26,
+      "snapshots": [
+        [
+          26,
+          {
+            "id": 26,
+            "children": [
+              27
+            ],
+            "displayName": null,
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 11,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          27,
+          {
+            "id": 27,
+            "children": [
+              28
+            ],
+            "displayName": "AppContainer",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          28,
+          {
+            "id": 28,
+            "children": [
+              29,
+              50
+            ],
+            "displayName": "App",
+            "hocDisplayNames": [
+              "withDevTools"
+            ],
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          29,
+          {
+            "id": 29,
+            "children": [
+              30
+            ],
+            "displayName": "App",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          30,
+          {
+            "id": 30,
+            "children": [
+              31,
+              35,
+              42,
+              46
+            ],
+            "displayName": "View",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          31,
+          {
+            "id": 31,
+            "children": [
+              32
+            ],
+            "displayName": "Text",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          32,
+          {
+            "id": 32,
+            "children": [
+              33
+            ],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          33,
+          {
+            "id": 33,
+            "children": [
+              34
+            ],
+            "displayName": "LocaleProvider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          34,
+          {
+            "id": 34,
+            "children": [],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          35,
+          {
+            "id": 35,
+            "children": [
+              36
+            ],
+            "displayName": "TouchableOpacity",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 8,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          36,
+          {
+            "id": 36,
+            "children": [
+              37
+            ],
+            "displayName": "TouchableOpacity",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          37,
+          {
+            "id": 37,
+            "children": [
+              38
+            ],
+            "displayName": "View",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          38,
+          {
+            "id": 38,
+            "children": [
+              39
+            ],
+            "displayName": "Text",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          39,
+          {
+            "id": 39,
+            "children": [
+              40
+            ],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          40,
+          {
+            "id": 40,
+            "children": [
+              41
+            ],
+            "displayName": "LocaleProvider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          41,
+          {
+            "id": 41,
+            "children": [],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          42,
+          {
+            "id": 42,
+            "children": [
+              43
+            ],
+            "displayName": "Text",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          43,
+          {
+            "id": 43,
+            "children": [
+              44
+            ],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          44,
+          {
+            "id": 44,
+            "children": [
+              45
+            ],
+            "displayName": "LocaleProvider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          45,
+          {
+            "id": 45,
+            "children": [],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          46,
+          {
+            "id": 46,
+            "children": [
+              47
+            ],
+            "displayName": "Text",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 6,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          47,
+          {
+            "id": 47,
+            "children": [
+              48
+            ],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          48,
+          {
+            "id": 48,
+            "children": [
+              49
+            ],
+            "displayName": "LocaleProvider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          49,
+          {
+            "id": 49,
+            "children": [],
+            "displayName": "Context.Provider",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 2,
+            "compiledWithForget": false
+          }
+        ],
+        [
+          50,
+          {
+            "id": 50,
+            "children": [],
+            "displayName": "DevLoadingView",
+            "hocDisplayNames": null,
+            "key": null,
+            "type": 5,
+            "compiledWithForget": false
+          }
+        ]
+      ]
+    }
+  ],
+  "timelineData": []
+}
